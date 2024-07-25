@@ -11,6 +11,6 @@ canvas {
 	position: fixed;
 	top: 0;
 }
-::webkit-scrollbar {
+::-webkit-scrollbar {
 	background: transparent;
 }
