@@ -12,5 +12,6 @@ canvas {
 	top: 0;
 }
 ::-webkit-scrollbar {
+	width: 0;
 	background: transparent;
 }
